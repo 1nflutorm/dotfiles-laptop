@@ -1,3 +1,3 @@
-#dependencies:
+# Dependencies:
 
-'yay -S --needed apple_cursor asciiquarium brightnessctl grim gtk4 hypridle hyprland hyprlock hyprpicker jq kitty kvantum kvantum-qt5 nwg-look otf-geist-mono-nerd pamixer playerctl polkit-gnome qt5ct qt6ct qt5-wayland qt6-wayland rofi rofi-calc slurp spicetify-cli spicetify-marketplace-bin spotify-adblock-git swaync swww thunar thunar-archive-plugin nautilus ttf-jetbrains-mono-nerd vesktop vscodium vscodium-marketplace waybar wl-clipboard wlogout wlsunset xdg-desktop-portal-hyprland xdg-desktop-portal-gtk zsh papirus-icon-theme papirus-folders'
+```yay -S --needed apple_cursor asciiquarium brightnessctl grim gtk4 hypridle hyprland hyprlock hyprpicker jq kitty kvantum kvantum-qt5 nwg-look otf-geist-mono-nerd pamixer playerctl polkit-gnome qt5ct qt6ct qt5-wayland qt6-wayland rofi rofi-calc slurp spicetify-cli spicetify-marketplace-bin spotify-adblock-git swaync swww thunar thunar-archive-plugin nautilus ttf-jetbrains-mono-nerd vesktop vscodium vscodium-marketplace waybar wl-clipboard wlogout wlsunset xdg-desktop-portal-hyprland xdg-desktop-portal-gtk zsh papirus-icon-theme papirus-folders```
