@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/1nflutorm/.local/bin/night-mode.sh" added="2026-04-04T16:01:26.033934Z" modified="2026-04-04T16:01:26.033938Z" visited="2026-04-04T16:01:26.033936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-04T16:01:26.033936Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.local/bin/walset" added="2026-04-04T16:02:00.941617Z" modified="2026-04-04T16:02:00.941623Z" visited="2026-04-04T16:02:00.941619Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-04T16:02:00.941620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/colorschemes/wallpaper-selector.sh" added="2026-04-04T16:04:34.490142Z" modified="2026-04-05T08:49:57.633977Z" visited="2026-04-04T16:04:34.490143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T08:49:57.633975Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Pictures/Wallpaper/drive-download-20260404T160924Z-1-001.zip" added="2026-04-04T16:09:43.578344Z" modified="2026-04-04T16:09:43.828202Z" visited="2026-04-04T16:09:43.578346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-04T16:09:43.578347Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-04T16:09:43.828200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Downloads/meridian.zip" added="2026-04-05T07:59:30.823159Z" modified="2026-04-05T07:59:31.073254Z" visited="2026-04-05T07:59:30.823160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T07:59:30.823161Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T07:59:31.073251Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Downloads/meridian/README.md" added="2026-04-05T08:01:06.124901Z" modified="2026-04-05T08:01:06.124906Z" visited="2026-04-05T08:01:06.124902Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T08:01:06.124903Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/hypr/modules/windowrules.conf" added="2026-04-05T08:02:57.642218Z" modified="2026-04-05T08:07:20.768665Z" visited="2026-04-05T08:02:57.642219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T08:07:20.518850Z" count="2"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T08:07:20.768663Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Downloads/Hyprland-laptop/.local/bin/waybar-layout-switcher" added="2026-04-05T08:22:58.671434Z" modified="2026-04-05T08:22:58.671443Z" visited="2026-04-05T08:22:58.671436Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T08:22:58.671438Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.local/bin/waybar-layout-switcher" added="2026-04-05T08:25:25.988041Z" modified="2026-04-05T08:25:25.988046Z" visited="2026-04-05T08:25:25.988042Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T08:25:25.988043Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/hypr/modules/binds.conf" added="2026-04-05T08:46:44.045914Z" modified="2026-04-05T09:31:30.106774Z" visited="2026-04-05T08:46:44.045915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T09:31:30.106772Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/hypr/modules/autostart.conf" added="2026-04-05T08:57:58.514139Z" modified="2026-04-05T12:55:12.691924Z" visited="2026-04-05T08:57:58.514140Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T08:57:58.514142Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T12:55:12.686332Z" count="1"/>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T12:55:12.691923Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/colorschemes/apply-theme.sh" added="2026-04-05T09:04:06.258730Z" modified="2026-04-05T09:04:06.258734Z" visited="2026-04-05T09:04:06.258731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T09:04:06.258732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/Thunar/uca.xml" added="2026-04-05T09:12:28.165591Z" modified="2026-04-05T09:12:28.165596Z" visited="2026-04-05T09:12:28.165593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T09:12:28.165594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/xfce4/xfconf/xfce-perchannel-xml/thunar.xml" added="2026-04-05T09:12:58.621519Z" modified="2026-04-05T09:12:58.621525Z" visited="2026-04-05T09:12:58.621520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T09:12:58.621521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.local/share/recently-used.xbel" added="2026-04-05T09:15:48.220585Z" modified="2026-04-05T09:15:48.220589Z" visited="2026-04-05T09:15:48.220587Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xbel"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T09:15:48.220587Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/colorschemes/gruvbox-dark/wallpapers/rrvlym.png" added="2026-04-05T09:24:43.698665Z" modified="2026-04-05T09:24:43.949124Z" visited="2026-04-05T09:24:43.698667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T09:24:43.698668Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T09:24:43.949118Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/colorschemes/gruvbox-dark/wallpapers/localhost.png" added="2026-04-05T09:25:42.012470Z" modified="2026-04-05T09:25:42.262785Z" visited="2026-04-05T09:25:42.012471Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T09:25:42.012473Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T09:25:42.262779Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/colorschemes/gruvbox-dark/wallpapers/planets.png" added="2026-04-05T09:26:48.952507Z" modified="2026-04-05T09:26:49.202376Z" visited="2026-04-05T09:26:48.952509Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T09:26:48.952511Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T09:26:49.202374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/.config/hypr/modules/layout.conf" added="2026-04-05T10:12:29.933916Z" modified="2026-04-05T10:19:07.749369Z" visited="2026-04-05T10:12:29.933917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2026-04-05T10:19:07.749367Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Desktop/test.js" added="2026-04-05T12:30:56.877340Z" modified="2026-04-05T12:30:57.127632Z" visited="2026-04-05T12:30:56.877341Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T12:30:56.877343Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T12:30:57.127628Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/1nflutorm/Desktop/indes.html" added="2026-04-05T12:31:55.015152Z" modified="2026-04-05T12:31:55.265446Z" visited="2026-04-05T12:31:55.015153Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xdg-desktop-portal-gtk" exec="&apos;xdg-desktop-portal-gtk %u&apos;" modified="2026-04-05T12:31:55.015154Z" count="1"/>
+          <bookmark:application name="org.chromium.Chromium" exec="&apos;gio open %u&apos;" modified="2026-04-05T12:31:55.265441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

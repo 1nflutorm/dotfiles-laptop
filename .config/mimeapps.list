@@ -1,0 +1,6 @@
+[Added Associations]
+application/x-shellscript=vscodium-wayland.desktop;
+text/markdown=vscodium.desktop;
+text/plain=vscodium-wayland.desktop;
+application/xml=vscodium-wayland.desktop;
+inode/directory=vscodium-wayland.desktop;
